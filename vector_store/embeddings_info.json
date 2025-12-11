@@ -1,0 +1,10 @@
+{
+  "model_name": "all-MiniLM-L6-v2",
+  "dimension": 384,
+  "total_chunks": 749,
+  "chunks_per_document": {
+    "MD18KYCF6E92C82E1E1419D87323E3869BC9F13.pdf": 545,
+    "FATF Standards - 40 Recommendations rc.pdf": 165,
+    "Program-NPRM-FactSheet-508.pdf": 39
+  }
+}
